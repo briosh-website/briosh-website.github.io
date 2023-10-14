@@ -3335,3 +3335,8 @@ input, select, textarea {
 			}
 
 		}
+	
+
+		img {
+			border: 2px solid #555;
+		}
